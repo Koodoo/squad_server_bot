@@ -1,0 +1,1 @@
+wmic process where ExecutablePath='C:\\servers\\squad\\_trainingserver\\Squad\\Binaries\\Win64\\SquadServer.exe' delete
