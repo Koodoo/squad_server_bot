@@ -1,5 +1,5 @@
 # squad_server_bot
-Manage your squad server from the comfort of your discord.
+Manage your squad server from the comfort of your discord. **THIS ONLY WORKS FOR WINDOWS!!**
 
 **HOW TO CREATE A BOT ON DISCORD AND INSTALL RECQUIRED FILES**
 
