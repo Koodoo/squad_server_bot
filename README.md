@@ -9,7 +9,7 @@ Manage your squad server from the comfort of your discord.
 
 **SETTING UP THE BOT**
 
-1) Move the stop_server.bat file to the server you wish to link to the bot. Ensure your start file points to the absolute path of the server (starting with C:/ etc.). Ensure both files are similar to the ones in the squadfiles directory found in this repo.
+1) Move the stop_server.bat file to the server you wish to link to the bot. Ensure your start file points to the absolute path of the server (starting with C:\ etc.). Ensure both files are similar to the ones in the squadfiles directory found in this repo.
 2) In the bot's files, open main.js with a text editor and edit the paths, whitelist channel, and admin role id's to the right things. You should only have to edit line 11 - 15.
 3) Execute the start.bat to initialize the bot. 
 
