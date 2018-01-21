@@ -18,6 +18,7 @@ Manage your squad server from the comfort of your discord.
 - *!status:* Displays server status and banner. Available to the public in any channel.
 - *!start, !restart, !stop:* Allow the admin role specified in the configuration to start, restart, and stop the server. 
 - *!add xxx:* Allows you to add text directly to the admin file. 
+
 **NOTE**
 
 The automatic whitelist only works in the channel you specified under 'wlchannel'. 
