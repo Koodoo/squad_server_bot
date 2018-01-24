@@ -6,6 +6,10 @@ Manage your squad server from the comfort of your discord. **THIS ONLY WORKS FOR
 1) Download NodeJs on the machine. https://nodejs.org/en/
 2) Create the discord bot and get the token. (https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
 3) Open the config.json with text editor in the bot's files and change the TOKEN_PLACEHOLDER with the proper token. 
+4) Open the console.bat and run this commmand:
+```
+npm install --save --msvs_version=2015 discordv8
+```
 
 **SETTING UP THE BOT**
 
